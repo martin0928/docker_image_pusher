@@ -1,2 +1,1 @@
 haroldli/xiaoya-tvbox:latest
-lizongying/my-tv-server
