@@ -1,3 +1,2 @@
 haroldli/xiaoya-tvbox:latest
 chishin/nginx-proxy-manager-zh:release
- 
