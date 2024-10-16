@@ -1,3 +1,5 @@
 haroldli/xiaoya-tvbox:latest
 chishin/nginx-proxy-manager-zh:release
 xhongc/music_tag_web:latest
+mariadb:10.5.8-focal
+bitnami/redis:6.0.16
